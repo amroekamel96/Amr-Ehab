@@ -119,3 +119,8 @@
 | | 2. Tap on income and add $5000 in salary | | | | | |Categories lines gets crossed together |
 | | 3. Add $100 in all 15 categories as expenses | | | | | |New category is added named Others and user can't access to see what's inside |
 | | 4. Check chart |
+
+
+# Third Part: Test Automation
+
+Project Link: https://github.com/amroekamel96/Amr-Ehab1
